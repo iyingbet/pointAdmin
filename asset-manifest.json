@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://iypointadmin.chinacloudsites.cn/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "https://iypointadmin.chinacloudsites.cn/static/js/main.e127988e.chunk.js",
+    "main.js.map": "https://iypointadmin.chinacloudsites.cn/static/js/main.e127988e.chunk.js.map",
+    "runtime-main.js": "https://iypointadmin.chinacloudsites.cn/static/js/runtime-main.8541dc7e.js",
+    "runtime-main.js.map": "https://iypointadmin.chinacloudsites.cn/static/js/runtime-main.8541dc7e.js.map",
+    "static/css/2.6d506cf3.chunk.css": "https://iypointadmin.chinacloudsites.cn/static/css/2.6d506cf3.chunk.css",
+    "static/js/2.944d003b.chunk.js": "https://iypointadmin.chinacloudsites.cn/static/js/2.944d003b.chunk.js",
+    "static/js/2.944d003b.chunk.js.map": "https://iypointadmin.chinacloudsites.cn/static/js/2.944d003b.chunk.js.map",
+    "index.html": "https://iypointadmin.chinacloudsites.cn/index.html",
+    "precache-manifest.d246d9c5c6a3ff0e2a32fe425dc7b7a5.js": "https://iypointadmin.chinacloudsites.cn/precache-manifest.d246d9c5c6a3ff0e2a32fe425dc7b7a5.js",
+    "service-worker.js": "https://iypointadmin.chinacloudsites.cn/service-worker.js",
+    "static/css/2.6d506cf3.chunk.css.map": "https://iypointadmin.chinacloudsites.cn/static/css/2.6d506cf3.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "https://iypointadmin.chinacloudsites.cn/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.944d003b.chunk.js.LICENSE": "https://iypointadmin.chinacloudsites.cn/static/js/2.944d003b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8541dc7e.js",
+    "static/css/2.6d506cf3.chunk.css",
+    "static/js/2.944d003b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e127988e.chunk.js"
+  ]
+}
